@@ -1,7 +1,8 @@
-package com.telusko.JobApp.controller;
+package com.ostafon.JobApp.controller;
 
-import com.telusko.JobApp.model.JobPost;
-import com.telusko.JobApp.service.JobService;
+
+import com.ostafon.JobApp.model.JobPost;
+import com.ostafon.JobApp.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
